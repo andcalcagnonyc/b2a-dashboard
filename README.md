@@ -4,7 +4,7 @@ An interactive dashboard that tracks the business-to-agent (B2A) economy: AI age
 
 It starts from a16z's essay [Welcome to the B2A Economy](https://www.a16z.news/p/welcome-to-the-b2a-economy) (Olivia Moore and Justine Moore, November 11, 2026), checks each number against its original source, adds independent context, and projects the main measures to 2030 under three scenarios.
 
-**Live dashboard:** https://andcalcagnonyc.github.io/b2a (also on [claude.ai](https://claude.ai/artifact/3SZtPVT6e7Yy5D3jh7FhXu))
+**Live dashboard:**[https://andcalcagnonyc.github.io/b2a-dashboard/] (also on [claude.ai](https://claude.ai/artifact/3SZtPVT6e7Yy5D3jh7FhXu))
 
 **Current edition:** 2026.11 (data as of November 11, 2026). Updated monthly.
 
